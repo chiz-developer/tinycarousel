@@ -1,11 +1,10 @@
-[tinycarousel](http://baijs.com/tinycarousel) [![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url] [![NPM version][npm-image]][npm-url]
-==================================================
 
 Отличная легкая карусель на jquery. Легко установить, легко настроить.
 --------------------------------------
 
 Установка:
 ----------
+<pre>
  <div id="slider1">
     <a class="buttons prev" href="#">&#60;</a>
     <div class="viewport">
@@ -21,4 +20,5 @@
 </div>
 
 $('#slider1').tinycarousel();
+</pre>
 
