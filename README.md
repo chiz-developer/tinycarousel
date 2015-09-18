@@ -4,7 +4,7 @@
 
 Установка:
 ----------
-<pre>
+<code>
  <div id="slider1">
     <a class="buttons prev" href="#">&#60;</a>
     <div class="viewport">
@@ -20,5 +20,5 @@
 </div>
 
 $('#slider1').tinycarousel();
-</pre>
+</code>
 
